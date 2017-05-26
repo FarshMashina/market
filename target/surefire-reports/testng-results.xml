@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="36269" started-at="2017-05-26T07:00:59Z" finished-at="2017-05-26T07:01:36Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="36269" started-at="2017-05-26T07:00:59Z" finished-at="2017-05-26T07:01:36Z">
+      <class name="ru.test.TestClass">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ru.test.TestClass@4d74c3ba]" name="beforeTest" is-config="true" duration-ms="4695" started-at="2017-05-26T12:00:59Z" finished-at="2017-05-26T12:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:ru.test.TestClass@4d74c3ba]" name="test" duration-ms="29904" started-at="2017-05-26T12:01:04Z" finished-at="2017-05-26T12:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ru.test.TestClass@4d74c3ba]" name="afterTest" is-config="true" duration-ms="1611" started-at="2017-05-26T12:01:34Z" finished-at="2017-05-26T12:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ru.test.TestClass -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

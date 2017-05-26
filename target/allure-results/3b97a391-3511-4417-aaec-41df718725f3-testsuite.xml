@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1495782059953" stop="1495782096232" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1495782064811" stop="1495782094583" status="passed">
+            <name>test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Surefire suite"/>
+                <label name="testGroup" value="Surefire test"/>
+                <label name="testClass" value="ru.test.TestClass"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Rena"/>
+                <label name="thread" value="10940@Rena.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
